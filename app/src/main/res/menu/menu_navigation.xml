@@ -24,5 +24,10 @@
         android:title="@string/ve"
         android:icon="@drawable/icon_ticket"
         />
+    <item
+        android:id="@+id/navQuanLyXe"
+        android:title="@string/quanlyxe"
+        android:icon="@drawable/icon_manage"
+        />
     </group>
 </menu>
