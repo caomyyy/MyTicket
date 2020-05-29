@@ -4,7 +4,7 @@
     <string name="sdt">Số điện thoại</string>
     <string name="ngaysinh">Ngày sinh</string>
     <string name="nam">Nam</string>
-    <string name="nu">Nũ</string>
+    <string name="nu">Nữ</string>
     <string name="khac">Khác</string>
     <string name="matkhau">Mật khẩu</string>
     <string name ="cmt">Chứng minh thư nhân dân </string>
@@ -22,6 +22,9 @@
     <string name="trangchu">Trang chủ</string>
     <string name="taikhoan">Tài khoản của tôi</string>
     <string name="ve">Vé của tôi</string>
+    <string name="thaydoi">Thay đổi thông tin</string>
+    <string name="thongtinve">Thông tin vé của bạn</string>
+    <string name="quanlyxe">Quản lý xe</string>
 
 
 

@@ -31,7 +31,7 @@ public class DangNhapActivity extends AppCompatActivity {
        btnDangNhapDN.setOnClickListener (new View.OnClickListener ( ) {
            @Override
            public void onClick(View v) {
-               Intent intent = new Intent ( DangNhapActivity.this, TimKiemActivity.class);
+               Intent intent = new Intent ( DangNhapActivity.this, TrangChuActivity.class);
                startActivity (intent);
            }
        });
